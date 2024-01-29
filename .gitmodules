@@ -1,0 +1,12 @@
+[submodule "doc"]
+	path = doc
+	url = https://github.com/Sarvarian/dey82-doc
+[submodule "box"]
+	path = box
+	url = https://github.com/Sarvarian/dey82-box
+[submodule "way"]
+	path = way
+	url = https://github.com/Sarvarian/dey82-way
+[submodule "set"]
+	path = set
+	url = https://github.com/Sarvarian/dey82-set
