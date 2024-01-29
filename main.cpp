@@ -1,8 +1,10 @@
-#include <stdio.h>
+#include "box/bmain.hpp"
 
-int main()
+int main(int argc, char** argv)
 {
-	printf("Hello, world!\n");
-	getchar();
-	return 0;
+	int exit_code = 0;
+
+	exit_code = ab::box::box_main(argc, argv);
+
+	return exit_code;
 }
