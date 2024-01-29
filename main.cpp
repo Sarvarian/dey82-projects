@@ -1,3 +1,4 @@
+#include "SDL.h"
 #include "box/bmain.hpp"
 
 int main(int argc, char** argv)
