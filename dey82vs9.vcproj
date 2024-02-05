@@ -186,6 +186,14 @@
 				RelativePath=".\box\bmain.hpp"
 				>
 			</File>
+			<File
+				RelativePath=".\box\pch.hpp"
+				>
+			</File>
+			<File
+				RelativePath=".\box\primes.hpp"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="Resource Files"
